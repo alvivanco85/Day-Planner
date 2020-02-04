@@ -8,6 +8,6 @@ A simple to use scheduling tool
 
 * Save any changes by clicking on the save button and you are all set. 
 
-  * Note that any event highlighted in grey is in present time. If an item is highlighted in green it is set to future time and anything highlighted in red is set to past time.
+  * Note that any event highlighted in red is in present time. If an item is highlighted in green it is set to future time and anything highlighted in grey is set to past time.
 
   ![Day Planner](./assets/images/daily-planner.jpg)
